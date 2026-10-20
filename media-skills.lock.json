@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "verified_on": "2026-10-20",
+  "sources": [
+    {
+      "id": "hyperframes",
+      "repo": "heygen-com/hyperframes",
+      "ref": "a8a80323f69f055bab9f7985b2c3398b9688aecb",
+      "license": "Apache-2.0",
+      "provenance": "https://hyperframes.heygen.com/quickstart",
+      "skills": [
+        {
+          "path": "skills/hyperframes",
+          "name": "hyperframes"
+        },
+        {
+          "path": "skills/hyperframes-animation",
+          "name": "hyperframes-animation"
+        },
+        {
+          "path": "skills/hyperframes-audio",
+          "name": "hyperframes-audio"
+        },
+        {
+          "path": "skills/hyperframes-cli",
+          "name": "hyperframes-cli"
+        },
+        {
+          "path": "skills/hyperframes-core",
+          "name": "hyperframes-core"
+        },
+        {
+          "path": "skills/hyperframes-creative",
+          "name": "hyperframes-creative"
+        },
+        {
+          "path": "skills/hyperframes-keyframes",
+          "name": "hyperframes-keyframes"
+        },
+        {
+          "path": "skills/hyperframes-registry",
+          "name": "hyperframes-registry"
+        },
+        {
+          "path": "skills/hyperframes-studio",
+          "name": "hyperframes-studio"
+        },
+        {
+          "path": "skills/media-use",
+          "name": "media-use"
+        },
+        {
+          "path": "skills/general-video",
+          "name": "general-video"
+        }
+      ]
+    },
+    {
+      "id": "video-use",
+      "repo": "browser-use/video-use",
+      "ref": "43cfc566833548093455c9d4a46bd69913b7e552",
+      "license": "MIT",
+      "provenance": "https://video-use.com/",
+      "skills": [
+        {
+          "path": ".",
+          "name": "video-use"
+        }
+      ]
+    },
+    {
+      "id": "remotion",
+      "repo": "remotion-dev/skills",
+      "ref": "039e8a2fc78b67efc228d5645367838b85818a1c",
+      "license": null,
+      "license_note": "No LICENSE at this commit; official installation documented, no upstream source redistributed in Git.",
+      "provenance": "https://www.remotion.dev/docs/ai/skills",
+      "skills": [
+        {
+          "path": "skills/remotion-best-practices",
+          "name": "remotion-best-practices"
+        }
+      ]
+    },
+    {
+      "id": "generative-media",
+      "repo": "calesthio/generative-media-skills",
+      "ref": "8c85352d5d75d4dcbe58480bd138e37b9742bab1",
+      "license": "MIT",
+      "provenance": "https://github.com/calesthio/generative-media-skills",
+      "skills": [
+        {
+          "path": "skills/providers/image-generation/image-generation-gateways",
+          "name": "image-generation-gateways"
+        },
+        {
+          "path": "skills/providers/video-generation/video-generation-gateways",
+          "name": "video-generation-gateways"
+        },
+        {
+          "path": "skills/production/creative-direction/cinematic-shot-direction",
+          "name": "cinematic-shot-direction"
+        },
+        {
+          "path": "skills/production/creative-direction/storyboard-previsualization",
+          "name": "storyboard-previsualization"
+        },
+        {
+          "path": "skills/production/runtime-assembly/ffmpeg-media-finishing",
+          "name": "ffmpeg-media-finishing"
+        },
+        {
+          "path": "skills/production/governance-delivery/generated-media-qa",
+          "name": "generated-media-qa"
+        }
+      ]
+    },
+    {
+      "id": "seedance2",
+      "repo": "dexhunter/seedance2-skill",
+      "ref": "516284d5bab58361bfdfed3cc96cee3e837d4c44",
+      "license": "MIT",
+      "provenance": "https://github.com/dexhunter/seedance2-skill",
+      "skills": [
+        {
+          "path": "zh",
+          "name": "seedance-prompt-zh"
+        }
+      ]
+    }
+  ]
+}
