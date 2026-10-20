@@ -1,0 +1,18 @@
+# Downloaded third-party skills and local provenance receipts
+/.agents/skills/
+/.agents/.media-skills-*
+
+# Credentials and environments
+.env
+.env.*
+!.env.example
+.venv/
+node_modules/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# User media and generated output
+/inputs/
+/outputs/
+/videos/
